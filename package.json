@@ -1,6 +1,6 @@
 {
 	"name": "datocms-plugin-export",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"homepage": "https://github.com/hinderlingvolkart/datocms-plugin-export",
 	"description": "Export DatoCMS content to JSON",
 	"keywords": [
