@@ -1,6 +1,6 @@
 {
 	"name": "datocms-plugin-export",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"homepage": "https://github.com/hinderlingvolkart/datocms-plugin-export",
 	"description": "Export DatoCMS content to JSON",
 	"keywords": [
@@ -10,7 +10,7 @@
 		"title": "DatoCMS Export Plugin",
 		"previewImage": "public/screenshot-1.png",
 		"coverImage": "public/intro.png",
-		"entryPoint": "build/index.html"
+		"entryPoint": "dist/index.html"
 	},
 	"dependencies": {
 		"@datocms/cma-client-browser": "^1.1.10",
