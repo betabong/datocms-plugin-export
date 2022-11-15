@@ -1,3 +1,5 @@
-# [Your plugin name]
+# DatoCMS Export Plugin
 
-[Describe what your plugin does, and how users you can configure it! Screenshots are always welcome!]
+Export DatoCMS records to a JSON file.
+
+![Screenshot](public/screenshot-1.png)
